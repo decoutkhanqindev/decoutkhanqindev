@@ -1,7 +1,7 @@
 ## Yes sir, my name is Minh Khanq👋
 # 💫About Me :
-🌱 I’m currently learning everything about mobile platforms.
-⚡ Fun fact: We are not the same, but we are developers!!!
+- 🌱 I’m currently learning everything about mobile platforms.
+- ⚡ Fun fact: We are not the same, but we are developers!!!
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/decoutkhanqindev/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/decoutkhanqindev) 

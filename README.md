@@ -1,5 +1,4 @@
-# Yes sir! My name is Minh Khanq!!!
-# 💫About Me :
+# 💫 Yes sir! My name is Minh Khanq!!!
 - 🌱 I’m currently learning everything about mobile platforms.
 - ⚡ Fun fact: We are not the same, but we are developers!!!
 

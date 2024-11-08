@@ -14,13 +14,4 @@
 
 ---
 
-# 📊 GitHub Stats
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=decoutkhanqindev&theme=react&hide_border=false&include_all_commits=false&count_private=false" alt="My GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=decoutkhanqindev&theme=react&hide_border=false" alt="My GitHub Streak Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=decoutkhanqindev&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="My Top Languages"/>
-</div>
-
----
-
 Thanks for visiting my profile! 🚀

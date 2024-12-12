@@ -1,4 +1,4 @@
-# 💫 Yes sir, Minh Khanq here !!!
+<h1 align=center># 💫 Yes sir, Minh Khanq here !!!</h1>
 🌱 I’m currently learning everything about mobile platforms.
 <br>
 ⚡ Fun fact: We are not the same, but we are developers !!!
